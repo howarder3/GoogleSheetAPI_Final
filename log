@@ -1,0 +1,481 @@
+    1  ipconfig
+    2  ip
+    3  ipconfig
+    4  ip
+    5  ipconfid
+    6  ipconfig
+    7  ipconfig all
+    8  pip3 intall 
+    9  python
+   10  python3
+   11  brew
+   12  /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+   13  /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+   14  brew
+   15  brew install python3
+   16  python --vrsion
+   17  python --version
+   18  python3 --version
+   19  pip3 install jupyter
+   20  jupyter notebook
+   21  jupyter notebook
+   22  brew
+   23  pip
+   24  jupyter notebook
+   25  qqq
+   26  jupyter notebookk
+   27  jupyter notebook
+   28  ll
+   29  ll/
+   30  ll /
+   31  ~$
+   32  ~$ ll /
+   33  ls
+   34  man
+   35  ls
+   36  ls -l
+   37  pwd
+   38  ps
+   39  ps -aux
+   40  ps -au
+   41  ps 
+   42  ls
+   43  pwd
+   44  ls
+   45  ps 
+   46  kill 5689
+   47  ps
+   48  kill -9 5689
+   49  ps 
+   50  kill -9 5848
+   51  python
+   52  ipconfig
+   53  ping 8.8.8.8
+   54  anaconda
+   55  anaconda -v
+   56  anaconda -V
+   57  conda
+   58  python -v
+   59  conda
+   60  anaconda
+   61  sypder
+   62  spyder
+   63  cd ~
+   64  curl -Ok https://repo.continuum.io/archive/Anaconda3-4.1.1-MacOSX-x86_64.sh
+   65  bash Anaconda3-4.1.1-MacOSX-x86_64.sh -b -p ~/anaconda
+   66  rm Anaconda3-4.1.1-MacOSX-x86_64.sh
+   67  echo 'export PATH="~/anaconda/bin:$PATH"' >> ~/.bash_profile 
+   68  source .bash_profile
+   69  conda update conda
+   70  python -version
+   71  python --version
+   72  python update
+   73  python -update
+   74  python --version
+   75  python3 --version
+   76  spyfer
+   77  spyder
+   78  ls
+   79  Desktop
+   80  cd Desktop
+   81  ls
+   82  cd ./
+   83  /Users/howard/Downloads/0212239_OS_HW2/0212239_2-4.c 
+   84  vim /Users/howard/Downloads/0212239_OS_HW2/0212239_2-4.c 
+   85  gcc /Users/howard/Downloads/0212239_OS_HW2/0212239_2-4.c 
+   86  ./a.o
+   87  .\a.out
+   88  ls
+   89  a.out
+   90  ./a.out
+   91  ./a
+   92  gcc a.out
+   93  gcc ./a.out
+   94  ./a.exe
+   95  ls
+   96  gcc /Users/howard/Downloads/0212239_OS_HW2/0212239_2-4.c 
+   97  ls
+   98  a.out
+   99  ./a.out
+  100  /a.out
+  101  gcc /Users/howard/Downloads/0212239_OS_HW2/0212239_2-4.c 
+  102  gcc /Users/howard/Downloads/0212239_OS_HW2/0212239_2-4.c -o yy  -lpthread
+  103  ./yy
+  104  ls
+  105  gcc -o /Users/howard/Downloads/0212239_OS_HW2/0212239_2-4.c 
+  106  gcc -o ggggg /Users/howard/Downloads/0212239_OS_HW2/0212239_2-4.c 
+  107  ls
+  108  ./ggggg
+  109  ggggg
+  110  yy
+  111  ls
+  112  /Users/howard/Downloads/0212239_OS_HW1/0212239_1-2.c 
+  113  gcc -o /Users/howard/Downloads/0212239_OS_HW1/0212239_1-2.c 
+  114  gcc -o b.out /Users/howard/Downloads/0212239_OS_HW1/0212239_1-2.c 
+  115  ./b.out
+  116  gcc -o yy  /Users/howard/Downloads/0212239_OS_HW1/0212239_1-1.c 
+  117  ./yy
+  118  yy
+  119  vim
+  120  ls
+  121  cd desktop
+  122  ls
+  123  cd test
+  124  ls
+  125  gcc -o a.out test.c
+  126  ./a.out
+  127  ./a.out
+  128  ls
+  129  vim test.c
+  130  vim test.c
+  131  vim test.c
+  132  ls
+  133  gcc -o a.out source.c
+  134  ./a.out
+  135  vim source.c
+  136  gcc -o a.out source.c
+  137  ./a.out
+  138  vim source.c
+  139  gcc -o a.out source.c
+  140  ./a.out
+  141  ps
+  142  ps
+  143  ps
+  144  ps -ax
+  145  set | grep TERM
+  146  ls
+  147  cd desktop
+  148  ls
+  149  cd test
+  150  ls
+  151  gcc -o a car_pass_bridge.c
+  152  ./a
+  153  gcc -o a car_pass_bridge.c
+  154  ./a
+  155  pip install pyobjc module
+  156  pyobjc module
+  157  pyobjc -v
+  158  python
+  159  pip install pyobjc-core
+  160  pip install pyobjc-core --upgrade
+  161  pip --upgrade
+  162  --upgrade pip
+  163  pip install --upgrade pip
+  164  pip3 install pyobjc
+  165  pip3 install pyobjc-core
+  166  pip3 install pyobjc
+  167  python
+  168  pip3 install pyautogui
+  169  python3
+  170  ls
+  171  cd desktop
+  172  ls
+  173  gcc -o a car_pass_bridge_multiplatform.c
+  174  ./a
+  175  gcc -o a car_pass_bridge_multiplatform.c
+  176  ./a
+  177  ls
+  178  cd destop
+  179  cd desktop
+  180  ls
+  181  gcc -o a car_pass_bridge_multiplatform.c
+  182  ./a
+  183  ls
+  184  cd desktop
+  185  ls
+  186  ./a
+  187  jupyter notebook
+  188  ls
+  189  cd desktop
+  190  gcc -o a car.c
+  191  gcc -o a car.c
+  192  gcc -o a car.c
+  193  gcc -o a car.c
+  194  gcc -o a car.c
+  195  ./a
+  196  gcc -o a car.c
+  197  gcc -o a car.c
+  198  gcc -o a car.c
+  199  gcc -o a car.c
+  200  gcc -o a car.c
+  201  ./a
+  202  gcc -o a car.c
+  203  ./a
+  204  gcc -o a car.c
+  205  ./a
+  206  cd desktop
+  207  gcc -o a car.c
+  208  ./a
+  209  gcc -o a car.c
+  210  ./a
+  211  gcc -o a car.c
+  212  ./a
+  213  gcc -o a car.c
+  214  ./a
+  215  gcc -o a car.c
+  216  ./a
+  217  gcc -o a car.c
+  218  ./a
+  219  gcc -o a car.c
+  220  ./a
+  221  gcc -o a car.c
+  222  ./a
+  223  gcc -o a car.c
+  224  ./a
+  225  gcc -o a car.c
+  226  ./a
+  227  gcc -o a car.c
+  228  ./a
+  229  gcc -o a car.c
+  230  ./a
+  231  gcc -o a car.c
+  232  ./a
+  233  gcc -o a car.c
+  234  ./a
+  235  gcc -o a car.c
+  236  ./a
+  237  ./a
+  238  ./a
+  239  ./a
+  240  ./a
+  241  cd desktop
+  242  ./a
+  243  jupyter notebook
+  244  vim car.c
+  245  ls
+  246  cd
+  247  cd deskyop
+  248  cd desktop
+  249  ls
+  250  cd ./a
+  251  ./a
+  252  clear
+  253  ls
+  254  cd
+  255  cd destop
+  256  cd desktop
+  257  ps
+  258  git
+  259  git clone https://github.com/christophediericx/AVRControlFlowGraphGenerator.git
+  260  ls
+  261  cd AVRControlFlowGraphGenerator
+  262  ls
+  263  cd Source
+  264  ls
+  265  ls
+  266  cd AVRControlFlowGraphGenerator
+  267  ls
+  268  jupyter notebook
+  269  jupyter notebook
+  270  ls
+  271   ~/.bash_profile
+  272   vim ~/.bash_profile
+  273   ~/.bash_profile
+  274  ls
+  275  cd
+  276  ls desktop
+  277  ls
+  278  ls -ltr
+  279  ls -a
+  280  ls
+  281  cd desktop
+  282  ls
+  283  ls -a
+  284  ls -ltr
+  285  ls
+  286  cd downloads
+  287  ls
+  288  vim 20171220_Weng_noflag_version_ok.ipynb 
+  289  ruby -e "$(curl -fsSL https://raw.github.com/mxcl/homebrew/go)"
+  290  ruby -e "$(curl -fsSL https://raw.github.com/mxcl/homebrew/go)"
+  291  brew install tmux
+  292  sudo apt-get install tmux
+  293  sudo apt-get install tmux
+  294  vim ~/.tmux.conf
+  295  tmux
+  296  tmux
+  297  tmux source ~/.tmux.conf
+  298  cd
+  299  cd
+  300  ls
+  301  tmux source ~/.tmux.conf
+  302  tmux
+  303  ~/.tmux.conf
+  304  pwd
+  305  ps
+  306  ps -all
+  307  kill -9 2689
+  308  kill -9 2702
+  309  kill -9 2733
+  310  kill -9 1193
+  311  ~/.tmux.conf 
+  312  ermission denied
+  313  .tmux.conf
+  314  vim ~/.tmux.conf
+  315  vim ~/.tmux.conf
+  316  ls
+  317  cp -b tmux.cinf
+  318  cp -b tmux.conf
+  319  cp -b /.tmux.conf
+  320  cp -b /.tmux.conf /
+  321  .tmux.conf
+  322  .tmux.conf
+  323  tmux
+  324  .tmux.conf
+  325  git clone https://github.com/gpakosz/.tmux.git
+  326  ln -s -f .tmux/.tmux.conf
+  327  cp .tmux/.tmux.conf.local
+  328  cp .tmux/.tmux.conf.local 
+  329  jupyter notebook
+  330  ps
+  331  ps -all
+  332  ls
+  333  ps
+  334  ps -all
+  335  ps
+  336  man ps
+  337  pwd
+  338  ls
+  339  cd
+  340  pwd
+  341  cd \
+  342  cd
+  343  cd/
+  344  cd ./
+  345  pwd
+  346  cd
+  347  ccd
+  348  cd
+  349  pwd
+  350  cd ../
+  351  pwd
+  352  cd .../
+  353  cd ../
+  354  pwd
+  355  ls
+  356  cd home
+  357  pwd
+  358  cd ../
+  359  cd users
+  360  pwd
+  361  ls
+  362  cd soslab
+  363  pwd
+  364  ls
+  365  cd downloads
+  366  sudo cd downloads
+  367  pwd
+  368  cd ../
+  369  pwd
+  370  ls
+  371  cd howard
+  372  ls
+  373  cd downloads
+  374  ls
+  375  ls -all
+  376  cd arduino_researching
+  377  pwd
+  378  ls
+  379  ls -all
+  380  ps
+  381  ps -all
+  382  ps -aux
+  383  cat
+  384  ps -c
+  385  ps -C
+  386  ps %cpu
+  387  ps -all %cpu
+  388  ps %cpu 
+  389  ps -all -sort=%cpu
+  390  ps -all --sort=%cpu
+  391  ps -all --sort=-%cpu
+  392  ps -all --sort=-%mem
+  393  ps -eo pid,ppid,cmd,%mem,%cpu --sort=-%mem | head
+  394  ps -eo
+  395  ps -e
+  396  ps -e -o
+  397  ps -e -o %cpu
+  398  ps -A -o %cpu | awk '{s+=$1} END {print s "%"}'
+  399  ps -e -o %cpu | awk '{s+=$1} END {print s "%"}'
+  400  top
+  401  npm install -g ethereumjs-testrpc truffle
+  402  nodejs
+  403  node
+  404  mkdir
+  405  mkdir hello
+  406  cd hello
+  407  truffle init
+  408  ls
+  409  cd contracts
+  410  truffle create contract HelloWorld
+  411  ls
+  412  vim HelloWorld.sol
+  413  truffle version
+  414  truffle compile
+  415  ls
+  416  cd
+  417  ls
+  418  cd hello
+  419  ls
+  420  cd build
+  421  ls
+  422  cd contracts
+  423  ls
+  424  tensorflow
+  425  tf
+  426  tensorflow
+  427  version tensorflow
+  428  version anaconda
+  429  version 
+  430  ver 
+  431  python
+  432  testrpc
+  433  brew install python
+  434  pip3 install --upgrade virtalenv
+  435  brew install python3
+  436  brew upgrade python
+  437  tensorflow
+  438  activate tensorflow
+  439  ls
+  440  mkdir ENV
+  441  cd ENV
+  442  python
+  443  python3
+  444  /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+  445  1.5.9
+  446  jupyter notebook
+  447  sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
+  448  pyvenv-3.6
+  449  pyvenv-3.6 mygoogleenv
+  450  source mygoogleenv/bin/activate
+  451  ls 
+  452  cd /Users/howard/mygoogleenv 
+  453  ls
+  454  python testget.py
+  455  pip install apiclient
+  456  pip install --upgrade pip
+  457  python testget.py
+  458  pip install apiclient.discovery
+  459  pip install apiclient.discovery
+  460  pip install apiclient
+  461  python testget.py
+  462  pip install --upgrade google-api-python-client
+  463  python testget.py
+  464  ls
+  465  python testget.py 
+  466  python testget.py 
+  467  python testget.py 
+  468  python testget.py 
+  469  python testget.py 
+  470  python testget.py 
+  471  python testget.py 
+  472  python testget.py 
+  473  python testget.py 
+  474  python testget.py 
+  475  python testget.py 
+  476  python testget.py 
+  477  python testget.py 
+  478  python testget.py 
+  479  python testget.py 
+  480  python testget.py 
+  481  history > log
